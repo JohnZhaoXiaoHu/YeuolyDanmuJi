@@ -54,7 +54,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bufferutil": "^4.0.1",
     "chromedriver": "^83.0.1",
     "echarts": "^4.6.0",
